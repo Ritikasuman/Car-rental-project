@@ -1,0 +1,13 @@
+/////////////////////////////////////////
+|                                       |
+| Model          :  Hyundai             |
+|                                       |
+| Year	         :  2015                |
+| Body Type	 :  Hatchback           |
+| Fuel Type	 :  Electric            |
+| Transmission	 :  Automatic           |
+| Power	         :  135 hp              |
+| Service        :  15.000 km / 1 year  |
+|                                       |
+/////////////////////////////////////////
+						

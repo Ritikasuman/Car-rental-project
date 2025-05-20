@@ -1,0 +1,12 @@
+/////////////////////////////////////////
+|                                       |
+| Model          :  Tesla               |
+|                                       |
+| Year	         :  2011                |
+| Body Typ       :  Convertible         |
+| Fuel Type      :  Electric            |
+| Transmission   :  Automatic           |
+| Power	         :  248 hp              |
+| Service        :  20.000 km / 1 year  |
+|                                       |
+/////////////////////////////////////////

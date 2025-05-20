@@ -1,0 +1,12 @@
+/////////////////////////////////////////
+|                                       |
+| Model          :  Ford                |
+|                                       |
+| Year	         :  2017                |
+| Body Type	 :  SUV                 |
+| Fuel Type	 :  Electric            |
+| Transmission	 :  Automatic           |
+| Power	         :  258 hp              |
+| Service        :  20.000 km / 2 year  |
+|                                       |
+/////////////////////////////////////////
